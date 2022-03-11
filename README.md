@@ -1,2 +1,2 @@
-# automate with boring stuff
-# projects
+# Python Projects
+
